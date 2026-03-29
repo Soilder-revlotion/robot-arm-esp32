@@ -19,8 +19,10 @@
   <img width="805" height="939" alt="c4081156048f708298e9ea20abb00840" src="https://github.com/user-attachments/assets/60ae7031-4511-4c31-9e07-464f712d0630" />
 
 ## 基于黑马老师制作的仿真图
+<img width="1331" height="982" alt="0b8310e5d0ca149ead70560e36e42a89" src="https://github.com/user-attachments/assets/affcb682-408a-47fb-a8a0-0cd3fc734b89" />
 
 ##    MPUT050＋按钮实现摇操作
+![e7f78792fd37322aeec337d8f8a01a9d](https://github.com/user-attachments/assets/7aaaa549-c6e5-45bf-9635-4e846353925e)
 
 ## 硬件要求
 
