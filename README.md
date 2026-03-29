@@ -11,6 +11,17 @@
 - **正/逆运动学** - 5 自由度运动学求解，支持末端位置计算
 - **回原点** - 一键回到预设 Home 位置，带渐进扭矩释放
 
+
+## 机械臂
+  ![机械臂](https://github.com/user-attachments/assets/38f42a14-a846-4501-895c-27fdad8aef02)
+
+## 操控界面
+  <img width="805" height="939" alt="c4081156048f708298e9ea20abb00840" src="https://github.com/user-attachments/assets/60ae7031-4511-4c31-9e07-464f712d0630" />
+
+## 基于黑马老师制作的仿真图
+
+##    MPUT050＋按钮实现摇操作
+
 ## 硬件要求
 
 | 组件 | 型号 |
